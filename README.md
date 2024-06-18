@@ -1,3 +1,2 @@
-## 📒 Módulo : Criando um relatório gerencial de vendas com Power BI
-
+## 📒 Módulo :Analisando dados de um Dashboard de Vendas no Power BI
 Arquivo publicado : 
