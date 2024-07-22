@@ -9,7 +9,7 @@ O principal objetivo deste desafio era criar um modelo de dados em formato de St
 O desafio envolvia a montagem de um esquema em estrela onde a tabela fato reflete diversas informações sobre os professores, os cursos ministrados e o departamento ao qual cada professor pertence. Além disso, foi necessário criar tabelas de dimensão que detalham os cursos, as disciplinas oferecidas, os departamentos e as datas relacionadas aos cursos.
 A implementação foi realizada utilizando as ferramentas SQL no Azure e Power BI em modo PowerQuery para visualização e análise.
 
-## Link da entrega: https://github.com/lucianeb/Python_data_analytics/blob/main/desafio_diagrama_dimensional.pbix
+## Link da entrega: https://github.com/lucianeb/Python_data_analytics/blob/main/desafio_diag_transversal/desafio_diagrama_dimensional.pbix
 
 ### Estrutura de Tabelas Criadas
 - **Departamento**: Contém informações dos departamentos incluindo um identificador único, nome do departamento e ID do coordenador.
